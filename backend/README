@@ -1,0 +1,4 @@
+If you want to try it paste this commande :
+cp src/main/resources/application-example.properties src/main/resources/application.properties
+and add you API key here:
+google.ai.api.key=${GOOGLE_AI_API_KEY:add-your-key-here}
